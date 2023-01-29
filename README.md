@@ -1,1 +1,1 @@
-# Azure-Virtual-Networks-with-SIEM
+# Azure-Virtual-Networks-with-Sentinel SIEM
