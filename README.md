@@ -11,8 +11,6 @@ The project was realized in azure public cloud enviromnent. The virtual server u
 ![OMS-Linux Connection](https://user-images.githubusercontent.com/100216232/222168854-2a53d2e8-b39c-4014-8ac9-919aaada83c7.png)
 # Events Logs Collection
 
-# A short Demo
 
 
-https://user-images.githubusercontent.com/100216232/221601016-9288f0b8-c358-4b78-b282-fc6b640f3ceb.mp4
 
