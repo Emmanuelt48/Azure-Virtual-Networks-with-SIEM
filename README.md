@@ -10,14 +10,7 @@ Main Points:
   *Investigation of critical incidents.
 	*Evaluation of Industry standards and regulation Compliance in Azure environment. 
 
-# Virtual Network-Azure Topology
-![Topology-VN ](https://user-images.githubusercontent.com/100216232/222161165-1b6e5a97-6504-4382-a881-9e1a88e5a622.png)
-# Connecting VMs to the Log Analytics Workspace via AMA (Azure Monitor Agent)
-![VMs Connection](https://user-images.githubusercontent.com/100216232/222161942-2ea1893c-9b45-4c3a-b5aa-c68925d04c11.png)
-# Connecting On-Premises Assets to Log Analytics Workspace via OMS (Operation Management Suite)
-![OMS-Agent](https://user-images.githubusercontent.com/100216232/222168789-aed8bf8b-bf30-4d00-819f-2fa2917e0ca9.png)
-![OMS-Linux Connection](https://user-images.githubusercontent.com/100216232/222168854-2a53d2e8-b39c-4014-8ac9-919aaada83c7.png)
-# Events Logs Collection
+
 
 
 
